@@ -629,7 +629,11 @@ li {
 
 @media(max-width: 480px) {
     .navbar__links {
+<<<<<<< HEAD
         gap: 15px;
+=======
+        gap: 10px;
+>>>>>>> 5d65b7f0a62f6ecaeec56e7322b306746fd4248f
     }
 
     .header__content--video {
