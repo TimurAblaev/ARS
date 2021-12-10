@@ -628,14 +628,11 @@ li {
 }
 
 @media(max-width: 480px) {
-    .navbar__links {
-<<<<<<< HEAD
-        gap: 15px;
-=======
-        gap: 10px;
->>>>>>> 5d65b7f0a62f6ecaeec56e7322b306746fd4248f
+    .navbar__content {
+        flex-direction: column;
+        margin-bottom: 20px;
     }
-
+    
     .header__content--video {
         flex-direction: column;
         align-items: center;
@@ -670,11 +667,6 @@ li {
     }
 }
 @media(max-width: 320px) {
-    .navbar__content {
-        flex-direction: column;
-        margin-bottom: 20px;
-    }
-
     .partners {
         grid-template-columns: repeat(1, 6fr);
     }
