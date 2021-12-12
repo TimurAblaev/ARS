@@ -44,7 +44,7 @@ li {
     font-weight: 500;
     font-size: 12px;
     line-height: 20px;
-    padding: 8px 28px;
+    padding: 7px 25px;
     border: 1px solid var(--orange);
     transition: all 0.5s;
     border-radius: 5px;
